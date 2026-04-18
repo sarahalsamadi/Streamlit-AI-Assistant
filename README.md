@@ -22,7 +22,7 @@ Built with the **Streamlit** framework, this assistant is designed for accessibi
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Streamlit-AI-Assistant.git](https://github.com/YourUsername/Streamlit-AI-Assistant.git)
+   git clone [https://github.com/sarahalsamadi/Streamlit-AI-Assistant.git](https://github.com/sarahalsamadi/Streamlit-AI-Assistant.git)
 
 2. **Install required dependencies:**
    ```bash
